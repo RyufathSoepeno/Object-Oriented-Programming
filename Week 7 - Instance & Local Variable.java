@@ -11,5 +11,6 @@ class TestFoo1 {
     public static void main(String[] args) {
         Fool myObj1 = new Fool();
         System.out.println(myObj1.x);
+        myObj1.p();
     }
 }
