@@ -3,6 +3,8 @@
 /// Summary: Think of them as initializer (set variable to) in scratch, if no value is set
 /// there will be no information about the first variable, other words, the game's start would not be interactive
 
+/** https://www.instagram.com/p/Cskfp_gI0z0/?igshid=MmJiY2I4NDBkZg== */
+
 
 class Person {
     private String name; // private = restricted access
