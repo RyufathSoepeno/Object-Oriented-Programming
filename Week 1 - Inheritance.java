@@ -2,6 +2,11 @@
 
 /// Summary: Think of them as tree diagrams, which can EXTEND [Ignore the protected part]
 
+/** 
+Passing down traits or abilities from one thing to another.
+Example: A child inherits eye color from parents; in programming, a “Car” class can pass its features to a “SportsCar” class
+*/
+
 /** https://www.instagram.com/p/Cskfp_gI0z0/?igshid=MmJiY2I4NDBkZg== */
 
 class Vehicle1 {
