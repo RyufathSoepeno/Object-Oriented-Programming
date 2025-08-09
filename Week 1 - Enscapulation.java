@@ -3,6 +3,11 @@
 /// Summary: Think of them as initializer (set variable to) in scratch, if no value is set
 /// there will be no information about the first variable, other words, the game's start would not be interactive
 
+/** 
+Keeping data and the methods that work on it bundled together, and controlling who can access it.
+Example: Your phone has private settings you can only change through its settings menu—not by poking its chips directly.
+*/
+
 /** https://www.instagram.com/p/Cskfp_gI0z0/?igshid=MmJiY2I4NDBkZg== */
 
 
