@@ -2,6 +2,11 @@
 
 /// Summary: Poly (many) morph (forms), which means  a feature that allows one interface to be used for a general class of actions
 
+/** 
+One action, different behaviors depending on the context.
+Example: The word “run” means different things for a person, a program, and a machine—but you still use the same word.
+*/
+
 /** https://www.instagram.com/p/Cskfp_gI0z0/?igshid=MmJiY2I4NDBkZg== */
 
 class Animal {
